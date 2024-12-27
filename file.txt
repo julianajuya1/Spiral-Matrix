@@ -1,0 +1,5 @@
+Compilation --> javac -d [file output] [files to compile] 
+Ej:  javac -d [out/src/] [src/controller/Controller.java src/models/SpiralMatrix.java]
+
+Execution --> java -cp [main file]
+java -cp out/src/controller.Controller

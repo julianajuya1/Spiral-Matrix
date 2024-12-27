@@ -17,6 +17,5 @@ The matrix should be filled with natural numbers, starting from 1 in the top-lef
 ### Spiral matrix of size 3
 ![imagen](https://github.com/user-attachments/assets/28b12a7a-2211-4368-a6df-911055dce7db)
 
-
 ### Spiral matrix of size 4
 ![imagen](https://github.com/user-attachments/assets/79a37543-2977-4379-8b0c-1e3414580c3c)
